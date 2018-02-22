@@ -1,8 +1,8 @@
 # Linux-Server-Configuration
 Udacity full stack nano degree Project 6
- Ip address : http://18.222.37.39/
- SSH port : 22 (Time out when make it 2200)
- Web app url : http://ec2-18-222-37-39.us-east-2.compute.amazonaws.com/
+ Ip address : 34.207.162.217
+ SSH port : 2200
+ Web app url : http://34.207.162.217/
  
 # Software Installed
   * Apache2 ``` sudo apt-get install apache2 ```
@@ -25,7 +25,8 @@ Udacity full stack nano degree Project 6
   * sudo service apache2 restart
   
 # The SSH key for grader
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDWB41QOS6Hw3wXDngGLU6TviQiKTLVQgtYzGjWf8XIchF/ZPcwegQiG0G1RXbLapTpSsQ8MxX7AYLg8Bg75ei+MDWPThE3AhBLjXdH/1oi11Eg0RbUfZRCy1AfAdFAkP0wQ29ZIHIz75IfnjBbOoU73YooBf0Ng3p+tBuo28RWI2mWyh/dkuJZuWT7la3bfy8Pbh8c2O7FLNxiLAiJYUVfFDaXH1f77tzeJAGqdTi6sJUzPpu97W5YcPIFpRL6hfsMUDG5EjTmPGdezuP6e+ckgR6F9k7mS/vCXlEUhA0xKlKx1mA8xQBPhwizscTO1ul8LBjSbuOJZcL+nyQw8Lel ubuntu@ip-172-31-47-74
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC21JBeKV+xBV33S9gXWzd0G0CyLSO26avAS8+awj77i5k2l49z+BMgVJy4xKqIbRPNQvHM4+8vxRflrqin87biXcgO9GnOHbv7/UR09cAir/qjYPVnXs7V+esqGvWdF+76gEXcG3rIdoe3MahPXCX2tmF78QHKNIpUCVFN5NHUb0ONsrN4mnghycD3sNIL7V43/6ZtrAsfQCrk+zR9AHztpcaih2NVDl4HHRgQoJAP3z30f//KKbYnap2z9QFFesr+/FDmDhWBkdAGIkNlh+KFRSM7LcRFtPP7102iGHOHkpdgW2mdz38BW7wmn4MVMdlPWQr80LqX9a8Uwg8I56zf ubuntu@ip-172-26-9-118
+
 
 
 
