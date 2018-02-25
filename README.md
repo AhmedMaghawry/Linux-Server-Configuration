@@ -3,6 +3,7 @@ Udacity full stack nano degree Project 6
  Ip address : 34.207.162.217
  SSH port : 2200
  Web app url : http://34.207.162.217/
+ Grader sudo password : Ahmed
  
 # Software Installed
   * Apache2 ``` sudo apt-get install apache2 ```
@@ -17,7 +18,7 @@ Udacity full stack nano degree Project 6
   * sudo ufw allow ssh
   * sudo ufw allow www
   * sudo ufw allow ntp
-  * sudo ufw allow 22/tcp
+  * sudo ufw allow 2200/tcp
   * sudo ufw allow 80/tcp
   * sudo ufw allow 123/udp
   * sudo ufw enable 
